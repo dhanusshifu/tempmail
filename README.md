@@ -27,7 +27,7 @@ Generates disposable email addresses using the 1secmail API and provides a simpl
 
 2. Run the script directly
 
-python tempmail.py
+`python tempmail.py`
 
 The script will check for missing Python packages and install them automatically on first run.
 
